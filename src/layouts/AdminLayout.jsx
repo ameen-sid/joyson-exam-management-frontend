@@ -57,7 +57,7 @@ export default function AdminLayout() {
                         {showMobileMenu ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
                     </button>
                     <div className="flex items-center justify-center h-9 w-9 md:h-10 md:w-10 bg-blue-600 rounded-xl text-white shadow-lg shadow-blue-900/50">
-                        <Activity className="h-5 w-5 md:h-6 md:w-6" />
+                        <img src="../public/logo.png" alt="Joyson logo" className='w-12 h-12' />
                     </div>
                     <div className="hidden sm:block">
                         <h1 className="text-lg md:text-xl font-bold text-white tracking-wide leading-none">

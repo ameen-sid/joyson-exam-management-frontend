@@ -52,14 +52,14 @@ export default function Login() {
 
                 <div className="relative z-10">
                     <div className="flex items-center space-x-2">
-                        <Activity className="h-8 w-8 text-blue-400" />
-                        <span className="text-xl font-bold tracking-wider">JOYSON</span>
+                        <img src='../public/logo.png' alt="Joyson logo" className='w-12 h-12' />
+                        <span className="text-xl font-bold tracking-wider">JOYSON SAFETY SYSTEMS</span>
                     </div>
                 </div>
 
                 <div className="relative z-10 max-w-lg">
                     <h2 className="text-5xl font-extrabold mb-6 leading-tight">
-                        Question Paper <br />
+                        Exam <br />
                         <span className="text-blue-400">Management</span>
                     </h2>
                     <p className="text-slate-400 text-lg mb-8 leading-relaxed">
